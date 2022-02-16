@@ -7,6 +7,6 @@ import "./assets/img/4geeks.ico";
 
 window.onload = function() {
   //write your code here
-
+  var excusa = Math.floor(Math.random());
   console.log("Hello Rigo from the console!");
 };
